@@ -1,0 +1,8 @@
+tilequeue.egg-info
+*.pyc
+config.yaml
+logging.conf
+*.sw*
+build
+dist
+.env
